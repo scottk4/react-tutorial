@@ -1,4 +1,4 @@
-
+//remove image when clicked
 function ProfilePicture(){
 
     const imageUrl = './src/assets/profile_pic.jpeg'
