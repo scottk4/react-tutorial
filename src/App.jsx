@@ -1,7 +1,8 @@
-import DigitalClock from './DigitalClock'
+import ComponentA from "./ComponentA";
+import React from 'react'
 function App() {
  
-  return(<DigitalClock />);
+  return(<ComponentA />);
 }
 
 export default App
