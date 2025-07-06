@@ -1,8 +1,7 @@
-import ComponentA from "./ComponentA";
-import React from 'react'
+import MyComponent from "./MyComponent";
 function App() {
  
-  return(<ComponentA />);
+  return(<MyComponent />);
 }
 
 export default App
