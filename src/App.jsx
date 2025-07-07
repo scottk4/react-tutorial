@@ -1,7 +1,7 @@
-import MyComponent from "./MyComponent";
+import Stopwatch from "./Stopwatch";
 function App() {
  
-  return(<MyComponent />);
+  return(<Stopwatch />);
 }
 
 export default App
